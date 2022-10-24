@@ -1,5 +1,5 @@
 # Data-Analysis-Project
-##### This is a data analysis project done on the Oil and Gas Summary Production Data (1967-1999). Carried out data cleaning, data transformation, and data visualizations to answer the following three analysis questions: 
+This is a data analysis project done on the Oil and Gas Summary Production Data (1967-1999). Carried out data cleaning, data transformation, and data visualizations to answer the following three analysis questions: 
 
 1) The Renewable Energy movement started during the 1970s. Assuming that this movement would decrease the dependency on natural gas and oil by making people more aware, do the number of active  oil and gas wells decrease over the years? Can we also see the same effect on the number of disposal wells?
 
